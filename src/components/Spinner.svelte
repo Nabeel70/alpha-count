@@ -1,0 +1,1 @@
+<div class="preloader"><span class="spinner spinner-round"></span></div>
