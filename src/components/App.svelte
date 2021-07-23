@@ -61,7 +61,7 @@
                   <li class="menu-item"><a class="menu-link nav-link" href="#token">Tokenomics</a></li>
                   <li class="menu-item"><a class="menu-link nav-link" href="#roadmap">Roadmap</a></li>
                   <li class="menu-item"><a class="menu-link nav-link" href="#news">News</a></li>
-                  <li class="menu-item"><a class="menu-link nav-link" href="#news">RU RDY?</a></li>
+                  <li class="menu-item"><a class="menu-link nav-link" href="LandingPage">RU RDY?</a></li>
                   <li class="menu-item">
                     <a class="menu-link nav-link" href="https://pbom.rocketbunny.io/wrap.html">Wrap $BUNNY</a>
                   </li>
