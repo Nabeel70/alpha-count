@@ -9,7 +9,7 @@
   });
     export let alt = false;
     let date = new Date();
-    date.setDate(date.getDate() + 12);
+    date.setDate(date.getDate() + 11);
     date.setHours(date.getHours() + 7);
     date.setMinutes(date.getMinutes() + 56);
     date.setSeconds(date.getSeconds() + 15);
